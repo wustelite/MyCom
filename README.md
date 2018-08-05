@@ -1,2 +1,7 @@
-# MyCom
-This gcs includes fundamental functionality such as serial communication,flight data visualization,display instrument etc.
+#Dedicate this program to my unborn baby—Niu-niu.I hope she(or he) will enjoy this world and grow healthily and happily.
+
+#About this gcs A gcs which includes fundamental functionality such as serial communication,flight data visualization,display instrument etc. A simple communication protocol development by my friend Zy Wei is used in this gcs.Currently the function and interface is far from application scene.The following function is to be modified and added in the comming few months. 1.Mavlink instead of current simple communication protocol will be used in the new edition to make it universal to more hardware. 2.The flight display instrument will be improved(such as magnetic-heading,navigation,turn rate will be added or optimized). 3.The map visualization and flight plan functionality which is one of the most important part of every common ground staion will be added.In my opinion,opmapcontrol which provide many features related to map operation is a right choice. Regarding the flight plan,I hope to realize the track plan for convental polygon area.
+
+#Windows installation To build on Windows,Download and install Qt 5.7.1 MSVC2015 32-bit
+
+#GPL v3 License The GPL v3 License is a strong copyleft license. When building QGC under this license the open source version of Qt can be used. Our licensing grants the permission to use a later version of the license, however, contributions have to be made under 3.0.
