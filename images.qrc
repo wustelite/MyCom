@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/add.png</file>
+        <file>images/cleanport.png</file>
+        <file>images/edit-clear.png</file>
+        <file>images/exit.png</file>
+        <file>images/mesage.png</file>
+        <file>images/open.png</file>
+        <file>images/stop.png</file>
+        <file>images/cockpit/altimetro/alt_GA.png</file>
+        <file>images/cockpit/altimetro/alt_GA.txt</file>
+        <file>images/cockpit/altimetro/alt_GA-1.png</file>
+        <file>images/cockpit/altimetro/alt_GA-2.png</file>
+        <file>images/cockpit/altimetro/alt_GA-3.png</file>
+        <file>images/hellWarrior.ico</file>
+    </qresource>
+</RCC>
